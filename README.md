@@ -6,3 +6,6 @@
 
 原作者不维护了，继任项目地址：
 https://github.com/Harry-zklcdc/go-proxy-bingai
+
+另外一个在维护的项目bingo，似乎也不错，可以尝试使用。
+https://github.com/weaigc/bingo
